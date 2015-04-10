@@ -1,0 +1,9 @@
+General Idea: Space themed, complex pong
+
+Different weapons: Blackhole, explosive missile
+
+Mechanics:
+- Works like a normal pong game, but there are floaty space physics, orbital mechanics etc.
+- players can shoot weapons which detonate and alter path of ball
+- detonations are limited to middle range of playing field
+- players can attack each other with debilitating weapons (EMP gun makes player unable to move, for ex.)
